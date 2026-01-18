@@ -1,70 +1,36 @@
-# 🌾 AgroVision AI
-
-# 🚀 Intelligence-Driven Pest Management
-### *Protecting the Future of Farming with AI*
+### PestIdentify AI
+**Intelligence-Driven Pest Management**
 
 ---
 
-# 🔗 LIVE APPLICATION LINK
-## 👉 [Click Here to Open the App](https://pest-detection-ai.streamlit.app/)
+**Live App Link:**
+[https://pest-detection-ai.streamlit.app/](https://pest-detection-ai.streamlit.app/)
 
 ---
 
-# 🔍 MODULE 1: PestIdentify AI
-## **Intelligence-Driven Pest Management**
+#### Project Overview
+PestIdentify AI is a specialized tool that uses Artificial Intelligence to detect agricultural pests. It is designed to help farmers identify harmful insects quickly so they can take action to protect their crops.
 
-**PestIdentify AI** is the core of our "Intelligence-Driven" philosophy. 
-
-Instead of broad-spectrum pesticide application—which is costly and environmentally damaging—this module allows for **surgical precision** in pest control.
-
-### 📋 WHY IT MATTERS
-
-*   **PRECISION TARGETING:** Identify exactly which pest is attacking your crop.
-
-*   **ECO-FRIENDLY FARMING:** Protect beneficial insects like bees by using targeted treatments.
-
-*   **ECONOMIC IMPACT:** Reduces chemical waste and saves money for farmers.
+#### Key Features
+* **Rapid Detection:** Analyzes images instantly to identify pests.
+* **Smart Management:** Provides intelligence to help reduce unnecessary pesticide use.
+* **Easy Access:** A simple web interface that works on any smartphone or computer.
 
 ---
 
-# 🌿 MODULE 2: PlantHealth AI
-## **Advanced Botanical Diagnostics**
-
-While pests attack from the outside, diseases often destroy from the inside. 
-
-**PlantHealth AI** acts as a digital agronomist, analyzing leaf pathology to save harvests before they fail.
-
-### 📋 WHY IT MATTERS
-
-*   **EARLY INTERVENTION:** Detects microscopic signs of fungal, bacterial, and viral infections.
-
-*   **YIELD PROTECTION:** Prevents the rapid spread of diseases like Late Blight or Leaf Rust.
+#### How to use the App
+1. Click the link above to open the application.
+2. Upload a clear photo of the insect or pest.
+3. The AI will scan the image and provide a identification result.
+4. Use the result to decide on the best pest management strategy.
 
 ---
 
-# 🚀 USER JOURNEY: HOW TO USE
-
-### **STEP 1: CAPTURE** 📸
-Take a clear photo of the leaf or insect in natural daylight.
-
-### **STEP 2: UPLOAD** 📤
-Use the "Upload" button on the [Live App](https://pest-detection-ai.streamlit.app/).
-
-### **STEP 3: ANALYZE** ⚙️
-Our AI engine processes the pixels to find patterns consistent with known issues.
-
-### **STEP 4: RESULT** ✅
-Receive an instant diagnosis and recommended actions.
+#### Technical Details
+* **Technology:** TensorFlow and Python.
+* **Interface:** Streamlit Web Framework.
+* **Detection:** Vision-based deep learning models.
 
 ---
 
-# 🛠️ TECHNICAL TECH-STACK
-
-*   **AI ENGINE:** TensorFlow & Keras (Deep Learning)
-*   **IMAGE PROCESSING:** OpenCV
-*   **INTERFACE:** Streamlit (Python-based)
-*   **LANGUAGE:** Python 3.10+
-
-
-
-### ⭐ *If you like this project, please give it a Star!*
+**Author:** R SOBHA RANI
