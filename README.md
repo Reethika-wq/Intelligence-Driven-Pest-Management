@@ -3,32 +3,38 @@
 
 ---
 
-**Live App Link:**
-[https://pest-detection-ai.streamlit.app/](https://pest-detection-ai.streamlit.app/)
+#### 🔗 Application Link
+**Live App:** [https://pest-detection-ai.streamlit.app/](https://pest-detection-ai.streamlit.app/)
 
 ---
 
-#### Project Overview
-PestIdentify AI is a specialized tool that uses Artificial Intelligence to detect agricultural pests. It is designed to help farmers identify harmful insects quickly so they can take action to protect their crops.
-
-#### Key Features
-* **Rapid Detection:** Analyzes images instantly to identify pests.
-* **Smart Management:** Provides intelligence to help reduce unnecessary pesticide use.
-* **Easy Access:** A simple web interface that works on any smartphone or computer.
+#### 📋 Project Overview
+PestIdentify AI is an advanced computer vision tool designed for the agricultural sector. It uses deep learning to identify pests from images, enabling farmers to make informed, intelligence-driven decisions for pest control and crop protection.
 
 ---
 
-#### How to use the App
-1. Click the link above to open the application.
-2. Upload a clear photo of the insect or pest.
-3. The AI will scan the image and provide a identification result.
-4. Use the result to decide on the best pest management strategy.
+#### ✨ Features
+* **Advanced Recognition:** Uses state-of-the-art vision models to detect pests.
+* **Instant Results:** Fast image processing for quick decision-making.
+* **Simple Interface:** Optimized for ease of use in real-world farming conditions.
 
 ---
 
-#### Technical Details
-* **Technology:** TensorFlow and Python.
-* **Interface:** Streamlit Web Framework.
-* **Detection:** Vision-based deep learning models.
+#### 🛠️ Technology Stack
+This project is built using the following core technologies:
+
+* **Framework:** Streamlit
+* **Deep Learning:** PyTorch (torch & torchvision)
+* **Model Library:** TIMM (PyTorch Image Models)
+* **Image Handling:** Pillow (PIL)
+* **Data Processing:** NumPy
+
+---
+
+#### 🚀 How to Use
+1. Open the [PestIdentify AI](https://pest-detection-ai.streamlit.app/) link.
+2. Upload a clear photograph of the pest or insect.
+3. The system will process the image using the PyTorch backend.
+4. Review the identification results and confidence levels.
 
 ---
