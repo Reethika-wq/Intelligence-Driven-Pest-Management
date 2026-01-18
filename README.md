@@ -32,5 +32,3 @@ PestIdentify AI is a specialized tool that uses Artificial Intelligence to detec
 * **Detection:** Vision-based deep learning models.
 
 ---
-
-**Author:** R SOBHA RANI
